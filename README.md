@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 💡 Aspiring **Web Developer** with strong interest in building Web applications
-- 🧰 Skilled in **Java**, **JavaScript**, **React**, and **HTML/CSS**
+- 🧰 Skilled in **JavaScript**, **TypeScript**, **Nodejs**, and **Java**
 - 📈 Learning backend frameworks and improving my system design knowledge
 - 🎯 Looking for job opportunities in frontend development and Data analyst
 
@@ -20,21 +20,28 @@
   <a href="https://www.linkedin.com/in/riya-sharma-0002a12aa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:riyasharma978715@gmail.com">
+  <a href="mailto:riyasharma.sde@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ## 💻 Languages and Skills:
-<p>
-  <img src="https://img.icons8.com/color/48/000000/python.png" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" />
-  <img src="https://img.icons8.com/fluency/48/mysql-logo.png" />
+<h2 align="center">💻 Languages & Skills</h2>
+
+<p align="center">
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="48" height="48"/>
   
+  <!-- TypeScript -->
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript" width="48" height="48"/>
+  
+  <!-- Node.js -->
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="48" height="48"/>
+  
+  <!-- Java -->
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="48" height="48"/>
 </p>
+
 
 ## 🧱 Frameworks Known:
 <p>
