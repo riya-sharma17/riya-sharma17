@@ -86,7 +86,7 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [riyasharma978715@gmail.com](mailto:riyasharma978715@gmail.com)
+- 📧 Email: [riyasharma.sde@gmail.com](mailto:riyasharma.sde@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/riya-sharma17](https://www.linkedin.com/in/riya-sharma-0002a12aa/) 
 
 ---
