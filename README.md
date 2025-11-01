@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Riya Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Frontend+Web+Developer;Java+Enthusiast;Passionate+about+building+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;Java+Enthusiast;Passionate+about+building+UIs" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,7 +26,6 @@
 </p>
 
 ## 💻 Languages and Skills:
-<h2 align="center">💻 Languages & Skills</h2>
 
 <p align="center">
   <!-- JavaScript -->
