@@ -11,7 +11,7 @@
 - 💡 Aspiring **Web Developer** with strong interest in building Web applications
 - 🧰 Skilled in **JavaScript**, **TypeScript**, **Nodejs**, and **Java**
 - 📈 Learning backend frameworks and improving my system design knowledge
-- 🎯 Looking for job opportunities in frontend development and Data analyst
+
 
 ---
 
