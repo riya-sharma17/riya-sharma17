@@ -10,38 +10,29 @@ Backend Developer passionate about building scalable backend systems, APIs, and 
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 💻 Backend Developer with a strong interest in scalable system design
-- 🚀 Skilled in **Node.js, TypeScript, JavaScript, Java, SQL**
-- ⚙️ Experienced with REST APIs, CLI applications, and database design
-- 🌱 Currently improving my Backend Engineering and DSA skills
+- 💻 Software Engineer with experience in backend and full-stack development
+- 🚀 Working with Node.js, TypeScript, NestJS, React.js, and databases
+- ⚙️ Interested in Backend Engineering, System Design, and scalable software architecture
 - ❤️ Passionate about writing clean, maintainable, and production-ready code
 
 ---
 
-#  Latest Project
+###  Featured Project
 
-### ⭐ Queue-CTL
+## 🎓 Pathshala – E-Learning Platform
 
-A production-inspired Command Line Job Queue built using **Node.js**, **TypeScript**, and **SQLite**.
+A full-stack e-learning platform focused on delivering an interactive learning experience.
 
-**Features**
+### Highlights
+- 📚 Built using React.js with RESTful API integration
+- 🔄 Implemented multi-step navigation and dynamic content delivery
+- ⚡ Managed application state using Redux Toolkit across 15+ components
+- 🏗 Designed a scalable and maintainable frontend architecture
 
-- Priority-based Scheduling
-- Concurrent Worker Pool
-- Automatic Retries
-- Exponential Backoff
-- Dead Letter Queue (DLQ)
-- Runtime Configuration
-- Queue Metrics
-- Graceful Worker Shutdown
-- Persistent SQLite Storage
-
-🔗 Repository:
-https://github.com/riya-sharma17/queue-ctl
-
----
+🛠 Tech Stack:
+React.js • Redux Toolkit • JavaScript • REST APIs • HTML • CSS
 
 # 🛠 Tech Stack
 
@@ -51,7 +42,6 @@ https://github.com/riya-sharma17/queue-ctl
 <img src="https://img.icons8.com/color/48/javascript.png"/>
 <img src="https://img.icons8.com/color/48/typescript.png"/>
 <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/sql.png"/>
 </p>
 
 ### Backend
